@@ -7,3 +7,4 @@
 * 1:20, research into style components in react
 * 3:30, add styling to demo project
 * 4:10, start work on capstone proposal. 
+* Demo Project : https://github.com/jfox25/Capstone-Table-Demo
