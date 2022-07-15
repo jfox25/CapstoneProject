@@ -16,3 +16,4 @@
 * 1:15, start second tutorial on adding login page.
 * 2:25, cont. work on second tutorial on adding login page.
 * 3:17, start doing research on react-router and how to incorporate it into demo project
+* 4:16, finish up research and devlopment for react-router and login form
