@@ -12,3 +12,4 @@
 7/15/22
 * 8:05, start reshearch into creating a login/register/logout functionality. 
 * 9:15, start to look into attacks my application could be comporomised by.
+* 10:10, start first video tutorial on adding login/register functionality.
